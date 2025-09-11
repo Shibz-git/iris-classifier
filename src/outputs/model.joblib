@@ -1,0 +1,1 @@
+joblib.dump(clf, "outputs/decision_tree_model.joblib")
